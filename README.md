@@ -59,5 +59,5 @@ In this final step, we'll trigger the CI process by making a change to our GitHu
 - Sit back and relax while AWS CodePipeline takes care of the rest. It will fetch the latest code, trigger the build process with AWS CodeBuild, and deploy the application if you configured the deployment stage.
 
 
-(![image](https://github.com/user-attachments/assets/79197a80-0cc3-4b53-93db-fe3ba22e24da)
+![image](https://github.com/user-attachments/assets/79197a80-0cc3-4b53-93db-fe3ba22e24da)
 
